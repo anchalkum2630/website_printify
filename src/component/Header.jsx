@@ -45,7 +45,9 @@ const Header = () => {
                         size={30} 
                        className="cursor-pointer lg:hidden m-4 md:ml-10 text-[#39b75d]"
                         onClick={handleChange} 
+
                     />
+                    <p>happy</p>
                     {/* Logo */}
                     <div className="sm:w-[18%] lg:w-[9%] sm:mr-80 lg:mr-0">
                         <img src={logo} alt='logo' />
